@@ -1,0 +1,1 @@
+Developed a prototype to automate attendance using face recognition technology. Utilized OpenCV for capturing frames from live video, Dlib for detecting facial features, and K-Nearest Neighbors for classification to enhance the training process speed. This project was recognized as one of the Top 5 projects at Prakalpa 2019.
